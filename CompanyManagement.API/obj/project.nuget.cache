@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZEmvt2UJf7Z6Vzg0H+BN4G3CmbXD6xKHFh5MKVQj+ZMbScfnf6BdzF9ZzAEKvoTLsU8unTAS75YK/Y5JEzFeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pana_\\Desktop\\Enoca.Net\\CompanyManagement\\CompanyManagement.API\\CompanyManagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pana_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pana_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pana_\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\pana_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\pana_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\pana_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

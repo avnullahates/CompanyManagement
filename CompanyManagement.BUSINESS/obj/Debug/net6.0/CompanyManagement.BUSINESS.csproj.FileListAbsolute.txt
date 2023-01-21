@@ -1,0 +1,12 @@
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\bin\Debug\net6.0\CompanyManagement.BUSINESS.deps.json
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\bin\Debug\net6.0\CompanyManagement.BUSINESS.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\bin\Debug\net6.0\CompanyManagement.BUSINESS.pdb
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\CompanyManagement.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\CompanyManagement.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\CompanyManagement.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\CompanyManagement.BUSINESS.AssemblyInfo.cs
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\CompanyManagement.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\CompanyManagement.BUSINESS.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\refint\CompanyManagement.BUSINESS.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\CompanyManagement.BUSINESS.pdb
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\ref\CompanyManagement.BUSINESS.dll

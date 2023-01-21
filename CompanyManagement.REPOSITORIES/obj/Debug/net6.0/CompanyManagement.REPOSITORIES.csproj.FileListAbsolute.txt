@@ -1,0 +1,17 @@
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\bin\Debug\net6.0\CompanyManagement.REPOSITORIES.deps.json
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\bin\Debug\net6.0\CompanyManagement.REPOSITORIES.runtimeconfig.json
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\bin\Debug\net6.0\CompanyManagement.REPOSITORIES.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\bin\Debug\net6.0\CompanyManagement.REPOSITORIES.pdb
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\bin\Debug\net6.0\CompanyManagement.ENTITIES.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\bin\Debug\net6.0\CompanyManagement.ENTITIES.pdb
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\CompanyManagement.REPOSITORIES.csproj.AssemblyReference.cache
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\CompanyManagement.REPOSITORIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\CompanyManagement.REPOSITORIES.AssemblyInfoInputs.cache
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\CompanyManagement.REPOSITORIES.AssemblyInfo.cs
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\CompanyManagement.REPOSITORIES.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\CompanyManagement.REPOSITORIES.csproj.CopyComplete
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\CompanyManagement.REPOSITORIES.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\refint\CompanyManagement.REPOSITORIES.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\CompanyManagement.REPOSITORIES.pdb
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\CompanyManagement.REPOSITORIES.genruntimeconfig.cache
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.REPOSITORIES\obj\Debug\net6.0\ref\CompanyManagement.REPOSITORIES.dll
