@@ -62,9 +62,7 @@ namespace CompanyManagement.UI.Controllers
 		[HttpPost]
 		public async Task<IActionResult> Create(Order order)
 		{
-			var url = baseUrl + "AddOrder";
-
-			
+			var url = baseUrl + "AddOrder";			
 			
 		
 			using (var httpClient = new HttpClient())
