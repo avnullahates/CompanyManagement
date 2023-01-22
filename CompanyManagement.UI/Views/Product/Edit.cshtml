@@ -1,0 +1,83 @@
+﻿@model CompanyManagement.ENTITIES.Entities.Product
+
+@{
+	ViewData["Title"] = "Edit";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Urun Guncelleme Sayfasi</h1>
+
+<h4>Urun</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Edit">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+			<div class="form-group">
+				<label asp-for="ID" class="control-label"></label>
+				<input asp-for="ID" class="form-control" readonly />
+				<span asp-validation-for="ID" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="ProductName" class="control-label"></label>
+				<input asp-for="ProductName" class="form-control" />
+				<span asp-validation-for="ProductName" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Stock" class="control-label"></label>
+				<input asp-for="Stock" class="form-control" />
+				<span asp-validation-for="Stock" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Price" class="control-label"></label>
+				<input asp-for="Price" class="form-control" />
+				<span asp-validation-for="Price" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="FirmID" class="control-label"></label>
+				<input asp-for="FirmID" class="form-control" readonly />
+				<span asp-validation-for="FirmID" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<input type="submit" value="Save" class="btn btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>
+<br />
+
+@if (ViewBag.Result == "Success")
+{
+	<h5>Urun Guncelleme Islemi Basarili</h5>
+	<table class="table table-sm table-striped table-bordered m-2">
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Urun Adi</th>
+				<th>Stok</th>
+				<th> Fiyati</th>
+				<th>Firma ID</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>@Model.ID</td>
+				<td>@Model.ProductName</td>
+				<td>@Model.Stock</td>
+				<td>@Model.Price</td>
+				<td>@Model.FirmID</td>
+			</tr>
+		</tbody>
+	</table>
+}
+<div>
+	<a asp-action="Index">Listeye Geri Don</a>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

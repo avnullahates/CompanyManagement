@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CompanyManagement.ENTITIES.Entities
 {
-    public class Product :BaseEntitiy
+    public class Product : BaseEntitiy
     {
 
         public string ProductName { get; set; }
@@ -19,6 +19,6 @@ namespace CompanyManagement.ENTITIES.Entities
         [ForeignKey("ProductsFirm")]
         public int FirmID { get; set; }
 
-        public Firm ProductsFirm { get; set; }
+        public Firm? ProductsFirm { get; set; }
     }
 }

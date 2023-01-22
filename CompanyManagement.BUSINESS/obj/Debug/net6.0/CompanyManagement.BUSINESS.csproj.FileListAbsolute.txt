@@ -10,3 +10,8 @@ C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\ob
 C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\refint\CompanyManagement.BUSINESS.dll
 C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\CompanyManagement.BUSINESS.pdb
 C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\ref\CompanyManagement.BUSINESS.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\bin\Debug\net6.0\CompanyManagement.ENTITIES.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\bin\Debug\net6.0\CompanyManagement.REPOSITORIES.dll
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\bin\Debug\net6.0\CompanyManagement.REPOSITORIES.pdb
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\bin\Debug\net6.0\CompanyManagement.ENTITIES.pdb
+C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.BUSINESS\obj\Debug\net6.0\CompanyManagement.BUSINESS.csproj.CopyComplete

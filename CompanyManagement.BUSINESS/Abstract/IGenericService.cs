@@ -21,4 +21,5 @@ namespace CompanyManagement.BUSINESS.Abstract
         List<T> GetAll();
         
     }
+
 }

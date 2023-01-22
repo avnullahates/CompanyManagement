@@ -16,12 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\pana_\Desktop\Enoca.Net\CompanyManagement\CompanyManagement.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Firm/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlybVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Firm/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlybVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Firm/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlybVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/pana_/Desktop/Enoca.Net/CompanyManagement/CompanyManagement.UI/Views/Shared/Error.cshtml]

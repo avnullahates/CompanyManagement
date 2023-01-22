@@ -12,19 +12,16 @@ namespace CompanyManagement.ENTITIES.Entities
         public string CustomerName { get; set; }
 
         [Column(TypeName = "datetime2")]
-        public DateTime OrderDate { get; set; }
-
-        [ForeignKey("OrdersFirm")]
-        public int FirmID { get; set; }
-
-        public Firm OrdersFirm { get; set; }
-
+        public DateTime OrderDate { get; set; }    
 
         [ForeignKey("OrdersProdcut")]
         public int ProductID { get; set; }
-
-        public Product OrdersProdcut { get; set; }
-
+        public Product? OrdersProdcut { get; set; }        
+        
+        [ForeignKey("OrdersFirm")]
+        public int FirmID { get; set; }
+        public Firm? OrdersFirm { get; set; }
+        
 
 
     }
